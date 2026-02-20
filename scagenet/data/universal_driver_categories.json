@@ -1,0 +1,74 @@
+{
+  "alarmin": [
+    "S100a8",
+    "S100a9",
+    "S100a6",
+    "S100a4",
+    "S100a11"
+  ],
+  "mhc_ii": [
+    "Cd74",
+    "H2-Aa",
+    "H2-Ab1",
+    "H2-Eb1",
+    "H2-DMa",
+    "H2-Oa"
+  ],
+  "ribosomal": [
+    "Rps27",
+    "Rpl32",
+    "Rps14",
+    "Rpl13a",
+    "Rps6",
+    "Rpl7",
+    "Rps2",
+    "Rpl13",
+    "Rps3",
+    "Rpl10a",
+    "Rpl11",
+    "Rpl12",
+    "Rps11",
+    "Rps18",
+    "Rplp1",
+    "Rpl39",
+    "Rps15a"
+  ],
+  "ieg": [
+    "Fos",
+    "Jun",
+    "Egr1",
+    "Atf3",
+    "Klf6",
+    "Junb",
+    "Jund",
+    "Nr4a1"
+  ],
+  "interferon": [
+    "Ifit1",
+    "Ifit2",
+    "Ifit3",
+    "Mx1",
+    "Oas1a",
+    "Isg15",
+    "Rsad2",
+    "Ifitm1"
+  ],
+  "lipid": [
+    "Sftpc",
+    "Sftpb",
+    "Sftpa1",
+    "Abca3",
+    "Lpcat1"
+  ],
+  "structural": [
+    "Mgp",
+    "Col1a1",
+    "Col3a1",
+    "Fn1",
+    "Vim",
+    "Acta2",
+    "Tagln",
+    "Col5a2",
+    "Col4a4"
+  ]
+}
